@@ -44,3 +44,4 @@ class MicroCluster:
     # get centroid of cluster
     def get_centroid(self):
         return self.centroid
+a
